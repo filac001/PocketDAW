@@ -119,7 +119,7 @@ All buttons connect **one side to the GPIO pin, the other side to GND**. The fir
 | Channel 1 (`C1`) | `B_C1` | **13** |
 | Channel 2 (`C2`) | `B_C2` | **14** |
 | Channel 3 (`C3`) | `B_C3` | **15** |
-| Channel 4 (`C4`) | `B_C4` | **3** |
+| Channel 4 (`C4`) | `B_C4` | **3 (RX)** |
 
 ### OLED display (I²C)
 
