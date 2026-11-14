@@ -1,5 +1,4 @@
 # PocketDAW
-# PocketDAW
 
 **A pocket-sized, battery-friendly sampler / sequencer / chord machine built on a single ESP32.**
 128×64 OLED, 11 buttons, a microSD card for your samples and songs, and sound out through the built-in DAC or straight to Bluetooth headphones.
