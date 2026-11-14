@@ -563,7 +563,7 @@ When you open an issue, please include:
 
 ## License
 
-*Choose a license for the project (for example MIT, GPL-3.0 or CC BY-SA for hardware files) and put the full text in a `LICENSE` file, then reference it here.*
+**
 
 ---
 
