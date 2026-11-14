@@ -5,7 +5,7 @@
 
 PocketDAW is open source. Build one, hack it, send pull requests.
 
-> **Status:** working firmware (`PocketDAW_v1.ino`). The project is under active development; see [Known limitations](#known-limitations).
+> **Status:** working firmware (`PocketDAW.ino`). The project is under active development; see [Known limitations](#known-limitations).
 
 ---
 
