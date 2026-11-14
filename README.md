@@ -231,7 +231,7 @@ Set `USE_BT` to `0` if you do not need Bluetooth. This frees RAM (more samples f
 
 ### Upload
 
-1. Open `PocketDAW_v34_performance_fx_2khz.ino`.
+1. Open `PocketDAW.ino`.
 2. Select board, port and partition scheme as above.
 3. Click **Upload**. (Release all buttons, especially **C4/GPIO3**.)
 
